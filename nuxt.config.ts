@@ -1,3 +1,7 @@
 export default defineNuxtConfig({
-  extends: 'content-wind'
-})
+  extends: 'content-wind',
+  // app: {
+  //   baseURL: '/',
+  //   buildAssetsDir: 'assets',
+  // },
+});
