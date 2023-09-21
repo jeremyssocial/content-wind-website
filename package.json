@@ -7,7 +7,7 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "predeploy": "nuxt generate",
-    "deploy": "gh-pages -d .output/public"
+    "deploy": "gh-pages -d ."
   },
   "devDependencies": {
     "content-wind": "latest",
