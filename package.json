@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "content-wind": "latest",
+    "gh-pages": "^6.0.0",
     "nuxt": "latest"
   }
 }
